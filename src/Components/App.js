@@ -48,7 +48,7 @@ function App() {
                     title="output"
                     sandbox="allow-scripts"
                     frameBorder="0"
-                    height="100%"
+                    height="290px"
                     width="100%"
                 />
             </div>
